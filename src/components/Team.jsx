@@ -9,7 +9,7 @@ export default function Team() {
           <p>These are my Teams across the World</p>
         </div>
 
-        {/**
+       
         <div class="row">
           <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="member d-flex align-items-start">
@@ -131,7 +131,7 @@ export default function Team() {
             </div>
           </div>
         </div>
-        */}
+        
       </div>
     </section>
   );
