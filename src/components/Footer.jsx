@@ -14,7 +14,7 @@ export default function Footer() {
         <div class="credits">
           Designed by <a href="/"> Bala Jimmy Yakubu</a>
         </div>
-        <div className="d-flex justify-content-end">
+        <div className="d-flex justify-content-end fixed-bottom">
           <a href="" className="scroll-back ">
             <i className=" bi bi-arrow-up btn  rounded-5"></i>
           </a>

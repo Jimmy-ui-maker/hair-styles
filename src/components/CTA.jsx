@@ -3,6 +3,7 @@ import React from "react";
 export default function CTA() {
   return (
     <section id="cta" class="cta">
+     {/**
       <div class="container" data-aos="zoom-in">
         <div class="row">
           <div class="col-lg-8 text-center text-lg-start">
@@ -25,6 +26,7 @@ export default function CTA() {
           </div>
         </div>
       </div>
+      */}
     </section>
   );
 }
