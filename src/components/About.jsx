@@ -3,7 +3,7 @@ import React from "react";
 export default function About() {
   return (
     <section id="about" class="about">
-    {/** 
+    
       <div class="container" data-aos="fade-up">
         <div class="section-title">
           <h2>About Us</h2>
@@ -44,7 +44,7 @@ export default function About() {
           </div>
         </div>
       </div>
-      */}
+      
     </section>
   );
 }
